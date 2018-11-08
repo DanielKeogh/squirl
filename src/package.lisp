@@ -68,6 +68,7 @@
    :body-angle
    :body-position
    :body-velocity
+   :body-angular-velocity
    :body-force
    :body-shapes
    :staticp
